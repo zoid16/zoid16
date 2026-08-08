@@ -6,8 +6,6 @@ I’m an Indonesia-based AI search consultant specializing in GEO, AEO, and SEO.
 
 ## Find me around the web 🌎
 
-## Find me around the web 🌎
-
 - 🗨️ On <a href="https://www.threads.com/@zoid_16">Threads</a>, I just ramble randomly
 - 📸 On <a href="https://www.instagram.com/zoid_16/">Instagram</a>, I act like a professional
 - 💼 On <a href="https://www.linkedin.com/in/zoid16">LinkedIn</a>, I pretend to be a thought leader
