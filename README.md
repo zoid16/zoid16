@@ -6,7 +6,11 @@ I’m an Indonesia-based AI search consultant specializing in GEO, AEO, and SEO.
 
 ## Find me around the web 🌎
 
-- Sharing updates on <a href="https://www.linkedin.com/in/zoid16">LinkedIn</a> 💼
-- Writing about AI Search at <a href="https://joehandaya.com/en">joehandaya.com</a> ✍️
-- Jamming on side projects, so open an issue or say hi if you have an idea worth building 🛠️
+## Find me around the web 🌎
 
+- 🗨️ On <a href="https://www.threads.com/@zoid_16">Threads</a>, I just ramble randomly
+- 📸 On <a href="https://www.instagram.com/zoid_16/">Instagram</a>, I act like a professional
+- 💼 On <a href="https://www.linkedin.com/in/zoid16">LinkedIn</a>, I pretend to be a thought leader
+- ✍️ On <a href="https://joehandaya.com/en">joehandaya.com</a>, I actually mean it
+
+Jamming on side projects too, so open an issue or say hi if you have an idea worth building 🛠️
