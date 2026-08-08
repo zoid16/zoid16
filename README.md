@@ -9,3 +9,4 @@ I help brands get found by search engines, and by the models people increasingly
 - Writing about AI search and measurement at <a href="https://joehandaya.com">joehandaya.com</a> ✍️
 - Sharing updates on <a href="https://www.linkedin.com/in/zoid16">LinkedIn</a> 💼
 - Jamming on side projects, so open an issue or say hi if you have an idea worth building 🛠️
+
